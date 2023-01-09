@@ -1,4 +1,4 @@
-I have published the following crates on [crates.io](https://crates.io/)
+I have published the following RUST libraries on [crates.io](https://crates.io/)
 
 [d3_geo_rs](https://crates.io/crates/d3_geo_rs)
 
